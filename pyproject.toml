@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Python SDK for the heraw API"
 readme = "README.md"
 authors = [
-    {name = "Camille Darley"}
+    {name = "Camille Darley"},
     {name = "Productions Autrement Dit"}
 ]
 license = "MIT"
