@@ -1,4 +1,4 @@
-# heraw Python SDK
+# Heraw Python SDK
 
 A Python client for the Heraw API with full type annotations.
 
