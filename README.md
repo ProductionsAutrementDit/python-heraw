@@ -1,6 +1,6 @@
 # heraw Python SDK
 
-A Python client for the heraw API with full type annotations.
+A Python client for the Heraw API with full type annotations.
 
 ## Installation
 
